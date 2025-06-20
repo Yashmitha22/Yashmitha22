@@ -54,18 +54,6 @@ Leadership • Teamwork • Communication • Event Management • Problem Solvi
 > 🏆 Built during NIT-K Hackathon 2024.
 
 ---
-
-## 🏅 Leadership & Impact
-
-- 🧑‍🎓 **IEEE Mangalore Subsection – Student Representative** (2025–Present)  
-- 👩‍💼 **Chair – IEEE Student Branch, SIT** (2024–2025)  
-- 🔍 **ML Lead – SSOSC (Srinivas Student Open Source Community)**  
-- 📢 **Vice Chair – IEEE SB SIT** (2024)
-
-> _“Leadership is not a position, it’s a responsibility to inspire.”_
-
----
-
 ## 📫 Let’s Connect!
 
 📍 **Mangaluru, India**   
@@ -74,12 +62,6 @@ Leadership • Teamwork • Communication • Event Management • Problem Solvi
 
 ---
 
-## 🌟 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashmitha22&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 > _“Driven by curiosity, powered by purpose, and guided by innovation.”_
