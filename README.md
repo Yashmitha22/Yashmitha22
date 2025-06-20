@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Yashmitha A</h1>
+<p align="center">
+  🎓 AI/ML Enthusiast • 🌱 Open Source Contributor • ⚡ IEEE Student Leader
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+AI+Engineer;Real-world+Problem+Solver;Tech+Community+Builder;Lifelong+Learner&center=true&width=500&height=30&pause=1000" alt="Typing SVG" />
+</p>
 
-<!--
-**Yashmitha22/Yashmitha22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey! I'm **Yashmitha**, a curious mind passionate about building **intelligent systems** to solve **real-world problems** using AI & ML. Currently pursuing my **B.E. in Artificial Intelligence and Machine Learning** at **SIT Mangaluru**, I thrive on working at the intersection of **technology**, **creativity**, and **impact**.
+
+- 🧠 Exploring ML, DL, CV, LLMs, and more
+- ✨ Believer in tech for social good
+- 🚀 Passionate about cloud, AI infra, and open source
+- 💡 Currently working on AI-based proctoring & ethical investing tools
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Languages & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+### ⚙️ Tools & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![YOLO](https://img.shields.io/badge/YOLO-CB1D1D?style=flat)
+
+### 🧠 Soft Skills
+Leadership • Teamwork • Communication • Event Management • Problem Solving
+
+---
+
+## 🚀 Projects
+
+### 🎓 [Exam Malpractice Detection System](https://github.com/Yashmitha22/exam_malpractice)
+> 🤖 AI-powered proctoring tool that detects exam malpractice through **real-time gesture recognition** and computer vision.  
+> Built using OpenCV, PyTorch, and custom detection models.  
+> 💡 Promotes academic integrity through AI.
+
+### 📊 [Real-Time ESG Equity Analysis Tool](https://github.com/nitkhackathon2024-5/SIT-Levine)
+> 📈 A market sentiment & ESG dashboard for **responsible investing**.  
+> Combines NLP, real-time news analysis, and sustainability metrics to guide better decisions.  
+> 🏆 Built during NIT-K Hackathon 2024.
+
+---
+
+## 🏅 Leadership & Impact
+
+- 🧑‍🎓 **IEEE Mangalore Subsection – Student Representative** (2025–Present)  
+- 👩‍💼 **Chair – IEEE Student Branch, SIT** (2024–2025)  
+- 🔍 **ML Lead – SSOSC (Srinivas Student Open Source Community)**  
+- 📢 **Vice Chair – IEEE SB SIT** (2024)
+
+> _“Leadership is not a position, it’s a responsibility to inspire.”_
+
+---
+
+## 📫 Let’s Connect!
+
+📍 **Mangaluru, India**  
+📧 [yashmithavagman@gmail.com](mailto:yashmithavagman@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yashmitha-vagman/)  
+💻 [GitHub](https://github.com/Yashmitha22)
+
+---
+
+## 🌟 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashmitha22&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+> _“Driven by curiosity, powered by purpose, and guided by innovation.”_
