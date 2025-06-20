@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Yashmitha A</h1>
+<h1 align="center">Hi there 👋, I'm Yashmitha </h1>
 <p align="center">
   🎓 AI/ML Enthusiast • 🌱 Open Source Contributor • ⚡ IEEE Student Leader
 </p>
