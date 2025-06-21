@@ -3,7 +3,7 @@
   🎓 AI/ML Enthusiast • 🌱 Open Source Contributor • ⚡ IEEE Student Leader
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+AI+Engineer;Real-world+Problem+Solver;Tech+Community+Builder;Lifelong+Learner&center=true&width=500&height=30&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+AI+Engineer;Real-world+Problem+Solver&center=true&width=500&height=30&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
