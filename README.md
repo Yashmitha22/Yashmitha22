@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Yashmitha </h1>
 <p align="center">
-  🎓 AI/ML Enthusiast • 🌱 Open Source Contributor • ⚡ IEEE Student Leader
+   AI/ML Enthusiast • Open Source Contributor 
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+AI+Engineer;Real-world+Problem+Solver&center=true&width=500&height=30&pause=1000" alt="Typing SVG" />
