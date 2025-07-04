@@ -58,10 +58,9 @@ Leadership • Teamwork • Communication • Event Management • Problem Solvi
 
 📍 **Mangaluru, India**   
 🔗 [LinkedIn](https://www.linkedin.com/in/yashmitha-vagman/)  
-💻 [GitHub](https://github.com/Yashmitha22)
 
 ---
 
 
 
-> _“Driven by curiosity, powered by purpose, and guided by innovation.”_
+> _“Driven by curiosity and guided by innovation.”_
