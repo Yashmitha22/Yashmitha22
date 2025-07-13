@@ -51,6 +51,8 @@ Leadership • Teamwork • Communication • Event Management • Problem Solvi
 > 📈 A market sentiment & ESG dashboard for **responsible investing**.  
 > Combines NLP, real-time news analysis, and sustainability metrics to guide better decisions.  
 > 🏆 Built during NIT-K Hackathon 2024.
+>
+> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmitha22&layout=pie&theme=radical" alt="Top Languages Pie Chart" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yashmitha22&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p>
 
 ---
 ## 📫 Let’s Connect!
