@@ -10,7 +10,7 @@
 
 ## 🔍 About Me
 
-Hey! I'm **Yashmitha**, a curious mind passionate about building **intelligent systems** to solve **real-world problems** using AI & ML. Currently pursuing my **B.E. in Artificial Intelligence and Machine Learning** at **SIT Mangaluru**, I thrive on working at the intersection of **technology**, **creativity**, and **impact**.
+Hey! I'm **Yashmitha**, a curious mind passionate about building **intelligent systems** to solve **real-world problems** using AI & ML. Currently pursuing my **B.E. in Artificial Intelligence and Machine Learning** at **SIT Mangaluru**, I thrive on working at the intersection of **technology**, **creativity** and **impact**.
 
 - 🧠 Exploring ML, DL, CV, LLMs, and more
 - 🚀 Passionate about cloud, AI infra, and open source
