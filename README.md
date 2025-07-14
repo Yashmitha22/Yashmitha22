@@ -52,7 +52,6 @@ Leadership • Teamwork • Communication • Event Management • Problem Solvi
 > Combines NLP, real-time news analysis, and sustainability metrics to guide better decisions.  
 > 🏆 Built during NIT-K Hackathon 2024.
 >
-> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yashmitha22&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p>
 
 ---
 ## 📫 Let’s Connect!
