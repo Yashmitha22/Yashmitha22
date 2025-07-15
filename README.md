@@ -40,6 +40,8 @@ Leadership • Teamwork • Communication • Event Management • Problem Solvi
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmitha22&layout=compact&theme=default)
+
 ## 🚀 Projects
 
 ### 🎓 [Exam Malpractice Detection System](https://github.com/Yashmitha22/exam_malpractice)
