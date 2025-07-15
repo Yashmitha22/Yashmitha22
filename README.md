@@ -28,6 +28,14 @@ Hey! I'm **Yashmitha**, a curious mind passionate about building **intelligent s
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmitha22&layout=compact&theme=default)
+
 
 ### ⚙️ Tools & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -40,7 +48,7 @@ Leadership • Teamwork • Communication • Event Management • Problem Solvi
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmitha22&layout=compact&theme=default)
+
 
 ## 🚀 Projects
 
