@@ -37,12 +37,6 @@ Hey! I'm **Yashmitha**, a curious mind passionate about building **intelligent s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmitha22&layout=compact&theme=default)
 
 
-### ⚙️ Tools & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![YOLO](https://img.shields.io/badge/YOLO-CB1D1D?style=flat)
-
 ### 🧠 Soft Skills
 Leadership • Teamwork • Communication • Event Management • Problem Solving
 
