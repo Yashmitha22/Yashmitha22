@@ -61,7 +61,7 @@ Leadership • Teamwork • Communication • Event Management • Problem Solvi
 > 📈 A market sentiment & ESG dashboard for **responsible investing**.  
 > Combines NLP, real-time news analysis, and sustainability metrics to guide better decisions.  
 > 🏆 Built during NIT-K Hackathon 2024.
->
+
 
 ---
 ## 📫 Let’s Connect!
