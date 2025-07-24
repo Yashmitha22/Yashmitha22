@@ -36,11 +36,7 @@ Hey! I'm **Yashmitha**, a curious mind passionate about building **intelligent s
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmitha22&layout=compact&theme=default)
 
-### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashmitha22&theme=default" alt="GitHub Streak"/>
-</p>
 
 
 
